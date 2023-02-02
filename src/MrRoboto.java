@@ -1,3 +1,11 @@
+/**
+ *
+ * @author Trevor Hartman
+ * @author <Rachelle Iloff>
+ *
+ * @since Version 1.0
+ *
+ */
 // Import the Scanner tool used for reading (All external packages/libraries/apis are imported similarly this)
 import java.util.Scanner;
 
