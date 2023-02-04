@@ -2,7 +2,6 @@
  *
  * @author Trevor Hartman
  * @author <Rachelle Iloff>
- *
  * Created 02/03/2023
  * @since Version 1.0
  *
@@ -19,7 +18,7 @@ public class MrRoboto {
         String line;
         Scanner scanner = new Scanner(System.in);
 
-        line = scanner.nextLine();// Concatenate the user response to this String.
+        scanner.nextLine();
         String domo = "Domo arigato ";
 
 
