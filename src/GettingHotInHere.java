@@ -26,8 +26,9 @@ public class GettingHotInHere {
 
         singleCelsius = (int)celsius;
         System.out.println(number + "°F");
-        System.out.println(singleCelsius + "°C");
-        System.out.printf("%f°C",celsius);
+        System.out.println("Let me puzzle that out for you!");
+        System.out.println("I'd say about " + singleCelsius + "°C");
+        System.out.printf("\nOr %f°C",celsius);
         System.out.println("\nIf it were 2°C warmer it would be: " +(celsius + 2 + "°C"));
 
 
